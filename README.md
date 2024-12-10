@@ -61,6 +61,8 @@ The total training time was approximately 12 hours, and the model's performance 
 ## 5.1. Model Evaluation
 The performance of the YOLOv5 model was evaluated using metrics such as mAP (mean Average Precision), Precision, Recall, and F1-score. The final model achieved the following performance:
 
+
+
 mAP (mean Average Precision): 99.3%
 Precision: 100% (The ratio of correctly predicted objects to all predicted objects for bears and wild boars)
 Recall: 99.7% (The ratio of correctly predicted objects to all actual objects for bears and wild boars)
@@ -75,6 +77,14 @@ Upon testing the model on unseen images, it successfully detected bears and wild
 
 Visualization of the results shows the bounding boxes correctly placed around the animals in most cases, along with class labels (bear or wild boar), demonstrating the model's ability to quickly identify these animals.
 
+https://github.com/user-attachments/assets/3bba6aac-e895-40cf-89fe-b00721572fc2
+
+resource : https://www.youtube.com/shorts/AyaYtN7WoLo (Travel Ninja)
+
+https://github.com/user-attachments/assets/f3aa4ec4-4d47-43f4-8fe2-d092d0a00475
+
+resource : https://www.youtube.com/shorts/wojf4S3N8l8 (호랑상식)
+
 ## 5.3. Comparative Analysis
 Compared to other object detection models, YOLOv5 outperformed alternatives like Faster R-CNN and SSD in terms of speed and real-time detection. Although these models achieved similar accuracy, YOLOv5's faster inference time made it more suitable for real-time applications, such as field monitoring of wildlife.
 
@@ -88,3 +98,11 @@ Future improvements could involve expanding the dataset to include other wildlif
 
 ## 6.3. Practical Applications
 This system could be used in various real-world applications, such as wildlife monitoring, forest safety, and outdoor activities. By accurately detecting dangerous animals like bears and wild boars, it can help reduce risks to humans and allow for faster response in potentially hazardous situations.
+
+
+https://github.com/user-attachments/assets/3bba6aac-e895-40cf-89fe-b00721572fc2
+
+
+https://github.com/user-attachments/assets/f3aa4ec4-4d47-43f4-8fe2-d092d0a00475
+
+
